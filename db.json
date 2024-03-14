@@ -1,8 +1,8 @@
 {
   "usuarios": [
-    {"id": 1, "user": "usuario1", "name": "Juan", "clave": "abc123", "theme": "Tema1"},
-    {"id": 2, "user": "usuario2", "name": "María", "clave": "def456", "theme": "Tema2"},
-    {"id": 3, "user": "usuario3", "name": "Pedro", "clave": "ghi789", "theme": "Tema3"}
+    {"id": 1, "user": "JuanDev", "name": "Juan", "clave": "abc123", "theme": "Tema1"},
+    {"id": 2, "user": "MariaDev", "name": "María", "clave": "def456", "theme": "Tema2"},
+    {"id": 3, "user": "PedroDev", "name": "Pedro", "clave": "ghi789", "theme": "Tema3"}
   ],
   "tareas": [
     {"idUser": 1, "id": 1, "description": "Hacer compras", "status": true, "date": "2024-03-14", "tagId": 1},
