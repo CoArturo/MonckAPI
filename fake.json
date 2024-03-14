@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {"clave": "abc123", "id": 1, "user": "usuario1", "name": "Juan", "theme": "Tema1"},
+    {"clave": "def456", "id": 2, "user": "usuario2", "name": "María", "theme": "Tema2"},
+    {"clave": "ghi789", "id": 3, "user": "usuario3", "name": "Pedro", "theme": "Tema3"}
+  ],
+  "tareas": [
+    {"idUser": 1, "id": 1, "description": "Hacer compras", "status": true, "date": "2024-03-14", "tagId": 1},
+    {"idUser": 2, "id": 2, "description": "Preparar presentación", "status": false, "date": "2024-03-15", "tagId": 2},
+    {"idUser": 3, "id": 3, "description": "Llamar al cliente", "status": true, "date": "2024-03-16", "tagId": 3},
+    {"idUser": 1, "id": 4, "description": "Limpiar la casa", "status": false, "date": "2024-03-17", "tagId": 1},
+    {"idUser": 2, "id": 5, "description": "Resolver problemas técnicos", "status": true, "date": "2024-03-18", "tagId": 2},
+    {"idUser": 3, "id": 6, "description": "Enviar reporte", "status": false, "date": "2024-03-19", "tagId": 3},
+    {"idUser": 1, "id": 7, "description": "Organizar reunión", "status": true, "date": "2024-03-20", "tagId": 1},
+    {"idUser": 2, "id": 8, "description": "Redactar informe", "status": false, "date": "2024-03-21", "tagId": 2},
+    {"idUser": 3, "id": 9, "description": "Realizar seguimiento", "status": true, "date": "2024-03-22", "tagId": 3},
+    {"idUser": 1, "id": 10, "description": "Revisar documentos", "status": false, "date": "2024-03-23", "tagId": 1},
+    {"idUser": 2, "id": 11, "description": "Desarrollar código", "status": true, "date": "2024-03-24", "tagId": 2},
+    {"idUser": 3, "id": 12, "description": "Planificar proyecto", "status": false, "date": "2024-03-25", "tagId": 3},
+    {"idUser": 1, "id": 13, "description": "Preparar presentación", "status": true, "date": "2024-03-26", "tagId": 1},
+    {"idUser": 2, "id": 14, "description": "Llamar al cliente", "status": false, "date": "2024-03-27", "tagId": 2},
+    {"idUser": 3, "id": 15, "description": "Limpiar la casa", "status": true, "date": "2024-03-28", "tagId": 3},
+    {"idUser": 1, "id": 16, "description": "Resolver problemas técnicos", "status": false, "date": "2024-03-29", "tagId": 1},
+    {"idUser": 2, "id": 17, "description": "Enviar reporte", "status": true, "date": "2024-03-30", "tagId": 2},
+    {"idUser": 3, "id": 18, "description": "Organizar reunión", "status": false, "date": "2024-03-31", "tagId": 3},
+    {"idUser": 1, "id": 19, "description": "Redactar informe", "status": true, "date": "2024-04-01", "tagId": 1},
+    {"idUser": 2, "id": 20, "description": "Realizar seguimiento", "status": false, "date": "2024-04-02", "tagId": 2}
+  ],
+  "tags": [
+    {"id": 1, "name": "Daily routine"},
+    {"id": 2, "name": "School"},
+    {"id": 3, "name": "Work"}
+  ]
+}
