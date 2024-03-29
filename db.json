@@ -2,7 +2,7 @@
   "usuarios": [
     {"id": 1, "user": "JuanDev", "name": "Juan", "clave": "abc123", "theme": "Dark"},
     {"id": 2, "user": "MariaDev", "name": "María", "clave": "def456", "theme": "Light"},
-    {"id": 3, "user": "PedroDev", "name": "Pedro", "clave": "ghi789", "theme": "Default"}
+    {"id": 3, "user": "PedroDev", "name": "Pedro", "clave": "ghi789", "theme": "Dark"}
   ],
   "tareas": [
     {"idUser": 1, "id": 1, "description": "Hacer compras", "status": true, "date": "2024-03-14", "tagId": 1},
